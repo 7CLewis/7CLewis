@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7CLewis
 - 👀 I’m interested in full-stack development and cybersecurity.
-- 🌱 I’m currently learning .NET Core, Angular, and cryptographic algorithms
+- 🌱 I’m currently learning .NET, Angular, and AWS
 - 💞️ I’m looking to collaborate on any project I could be of use
 - 📫 How to reach me: casey.lewis08@gmail.com
 
